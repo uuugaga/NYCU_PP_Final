@@ -1,0 +1,7 @@
+/.vscode
+
+gmon.out
+sequential
+pthread
+omp
+cuda
