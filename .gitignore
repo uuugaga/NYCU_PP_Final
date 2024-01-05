@@ -1,7 +1,10 @@
 /.vscode
+/4_109550181_109704011_109550127
 
 gmon.out
 sequential
 pthread
 omp
 cuda
+url.txt
+
